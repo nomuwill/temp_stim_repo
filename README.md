@@ -7,5 +7,3 @@ https://github.com/braingeneers/braindance
 If you want some other analysis options:
 https://github.com/braingeneers/braingeneerspy
 
-The spike sorted & packaged file is the H5
-
